@@ -13,9 +13,6 @@ This repository stores code for the compilation of analysis-ready data with the 
 
 - [Census Small Area Statistics](https://www.cso.ie/en/census/census2022/census2022smallareapopulationstatistics/)
 
-## Preview
-![Moble monitoring routes](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11356-024-34903-5/MediaObjects/11356_2024_34903_Fig1_HTML.png?as=webp)
-Overview of the GoogleAirView mobile monitoring routes in Dublin from May 2021 to May 2022. Notes: The blue dots represent the location of the urban background, suburban background, and urban traffic stations.
 
 ## Main variables
 The monitored variables including nitrogen dioxide (NO2) and fine particulate matter (PM2.5). 
